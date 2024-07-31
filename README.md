@@ -5,8 +5,11 @@ Homebrew store for XBOX ONE
 
 Status : *In the making*
 
-# Functions
+# To Do list
 
-1. Install Homebrew apps from the app
+1. _Manage Homebrew APP_ (View info/Delete apps) DONE
 
-2. Manage Homebrew apps from the app
+2. _Download Apps and save them on the disk_ DONE
+   
+3. Install Apps (Probly won't be possible if a webkit uwp app installer going to be found or an uwp install uwp exploit)
+
